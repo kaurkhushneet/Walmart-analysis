@@ -7,8 +7,6 @@ Libraries:- pandas, numpy, SQLAlchemy, mysql-connector-python, psycopg2
 
 Platform:- VS Code, Jupyter Notebook
 
-Data Source: Kaggle – Walmart Sales Dataset
-
 Key Business Insights:-
 This project uses advanced SQL queries to explore and answer core business questions:
 
