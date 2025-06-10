@@ -1,16 +1,15 @@
-Walmart Sales Data Analysis
 This project presents a complete data analysis solution built on Walmart sales data, using Python for data processing and SQL for querying and insight generation. The objective is to extract actionable business intelligence to support decisions in areas like sales strategy, customer behavior, and operational efficiency.
 
-🧰 Tools & Technologies
+Tools & Technologies:-
 Languages: Python, SQL (MySQL & PostgreSQL)
 
-Libraries: pandas, numpy, SQLAlchemy, mysql-connector-python, psycopg2
+Libraries:- pandas, numpy, SQLAlchemy, mysql-connector-python, psycopg2
 
-Platform: VS Code, Jupyter Notebook
+Platform:- VS Code, Jupyter Notebook
 
 Data Source: Kaggle – Walmart Sales Dataset
 
-🔍 Key Business Insights
+Key Business Insights:-
 This project uses advanced SQL queries to explore and answer core business questions:
 
 Payment Analysis: Identified the different payment methods used by customers, along with the number of transactions and total items sold via each method. This reveals customer preferences in payment modes and helps optimize payment options.
